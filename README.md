@@ -23,7 +23,7 @@ Please feel free to send me [pull request](https://github.com/LittleRedHat/aweso
 - Multi-modal Cycle-consistent Generalized Zero-Shot Learning [[eccv 2018]](https://arxiv.org/pdf/1808.00136.pdf) [[code]](https://github.com/rfelixmg/frwgan-eccv18) :star::star::star:
     - cycle-GAN for ZSL and GZSL
 - Feature Generating Networks for Zero-Shot Learning [[cvpr 2018]](https://arxiv.org/pdf/1712.00981.pdf) :star::star::star::star:
-    - GAN for ZSL, great improve especially in GZSL
+    - GAN for ZSL, great improvement especially in GZSL
 - Zero-Shot Learning - A Comprehensive Evaluation of the Good, the Bad and the Ugly [[cvpr 2017]](https://arxiv.org/pdf/1707.00600.pdf) :star::star::star::star:
     - a must read review for ZSL and GZSL
 
