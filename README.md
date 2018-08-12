@@ -24,6 +24,12 @@ Please feel free to send me [pull request](https://github.com/LittleRedHat/aweso
 
 ## Papers
 
+- Adversarial Zero-Shot Learning with Semantic Augmentation [[AAAI 2018](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16805/15965)] :star::star:
+    - GAN only for ZSL with semantic-same and semantic-compound augmentation
+
+- Stacked Semantic-Guided Attention Model for Fine-Grained Zero-Shot Learning [[arixv](https://arxiv.org/pdf/1805.08113.pdf)] :star::star::star:
+    - semantic-guide attention for discriminative feature extract
+
 - Discriminative Learning of Latent Features for Zero-Shot Recognition [[cvpr 2018 oral](https://arxiv.org/pdf/1803.06731.pdf)] :star::star::star::star:
     - zoom-net for ZSl
 
