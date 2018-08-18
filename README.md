@@ -23,6 +23,8 @@ Please feel free to send me [pull request](https://github.com/LittleRedHat/aweso
 
 
 ## Papers
+- Zero-shot Recognition via Semantic Embeddings and Knowledge Graphs [[cvpr 2018](https://arxiv.org/pdf/1803.08035.pdf)][[code](https://github.com/JudyYe/zero-shot-gcn)]:star::star:
+    - use knowledge graph and gcn to model label relationshaip
 
 - Adversarial Zero-Shot Learning with Semantic Augmentation [[AAAI 2018](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16805/15965)] :star::star:
     - GAN only for ZSL with semantic-same and semantic-compound augmentation
